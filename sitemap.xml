@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://bestkettle-bell.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://bestkettle-bell.com/buying-guide.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://bestkettle-bell.com/cast-iron-vs-competition.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://bestkettle-bell.com/kettlebell-workout-tips.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://bestkettle-bell.com/about.html</loc><changefreq>yearly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://bestkettle-bell.com/contact.html</loc><changefreq>yearly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://bestkettle-bell.com/privacy.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://bestkettle-bell.com/kettle-bell-what-wed-buy-2026.html</loc><lastmod>2026-05-22</lastmod></url>
-  <url><loc>https://bestkettle-bell.com/kettle-bell-tested-ranked-2026.html</loc><lastmod>2026-05-23</lastmod></url>
-  <url><loc>https://bestkettle-bell.com/kettle-bell-buyers-handbook-2026.html</loc><lastmod>2026-05-24</lastmod></url>
-  <url><loc>https://bestkettle-bell.com/kettle-bell-buying-guide-2026.html</loc><lastmod>2026-05-25</lastmod></url>
-  <url><loc>https://bestkettle-bell.com/kettle-bell-practical-guide-2026.html</loc><lastmod>2026-05-26</lastmod></url>
-  <url><loc>https://bestkettle-bell.com/kettle-bell-what-buyers-need-2026.html</loc><lastmod>2026-05-27</lastmod></url>
-  <url><loc>https://bestkettle-bell.com/kettle-bell-guide-2026.html</loc><lastmod>2026-05-30</lastmod></url>
-  <url><loc>https://bestkettle-bell.com/no-bs-kettle-bell-guide-2026.html</loc><lastmod>2026-06-02</lastmod></url>
-  <url><loc>https://bestkettle-bell.com/how-to-pick-kettle-bell-2026.html</loc><lastmod>2026-06-05</lastmod></url>
-  <url><loc>https://bestkettle-bell.com/what-we-look-for-kettle-bell-2026.html</loc><lastmod>2026-06-06</lastmod></url>
-  <url><loc>https://bestkettle-bell.com/kettle-bell-explained-2026.html</loc><lastmod>2026-06-07</lastmod></url>
+  <url>
+    <loc>https://bestkettle-bell.com/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
